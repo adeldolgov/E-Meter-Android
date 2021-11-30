@@ -1,0 +1,33 @@
+<resources>
+    <!-- Common -->
+    <string name="common_application_name">EMeter</string>
+    <string name="common_price_holder">%s ₽</string>
+
+    <!-- Login -->
+    <string name="login_title">Добро\nпожаловать!</string>
+    <string name="login_login_hint">Логин</string>
+    <string name="login_pass_hint">Пароль</string>
+    <string name="login_enter">Войти</string>
+
+    <!-- Main -->
+    <string name="main_menu_my_counters">Мои счетчики</string>
+    <string name="main_menu_info">Инфо</string>
+
+    <!-- Counters -->
+    <string name="counters_header">Привет,\n%s!</string>
+    <string name="counters_counter_title">Счётчик</string>
+    <string name="counters_value_holder">%s m³</string>
+
+    <!-- Info -->
+    <string name="info_header_name">Адель Долгов</string>
+    <string name="info_header_domain">"@adeldolgov"</string>
+    <string name="info_header_status">в работе над счетчиками</string>
+    <string name="info_header_company">МСО-402Б-18</string>
+    <string name="info_header_company_info">Филиал МАИ "Стрела"</string>
+    <string name="info_header_about">Pre-MVP версия показывающая концепт приложения E-Meter.
+        Приложение позволяет следить за счетчиками, показывает актуальную информацию, предоставляет различные метрики.
+        В данной версии представлены архитектурные и другие различные решения которые будут выполняться в процессе работы над программой.
+    </string>
+
+
+</resources>

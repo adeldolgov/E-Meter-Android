@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.AppCompat.Black">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.14">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.18">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.20">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.26">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.32">
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Black.32.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Button.Common" parent="Widget.MaterialComponents.Button">
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="outline_cornerSize">10dp</item>
+    </style>
+
+    <style name="ShimmerLayout.Common" parent="">
+        <item name="shimmer_duration">800</item>
+        <item name="shimmer_tilt">0</item>
+        <item name="shimmer_width_ratio">0.55</item>
+        <item name="shimmer_repeat_mode">restart</item>
+        <item name="shimmer_shape">linear</item>
+    </style>
+
+    <style name="ShapeableImageView.Common" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">25%</item>
+    </style>
+
+</resources>

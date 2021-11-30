@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TweakableOutlineButton">
+        <attr name="outline_cornerSize" format="dimension" />
+        <attr name="outline_scaleX" format="float" />
+        <attr name="outline_scaleY" format="float" />
+        <attr name="outline_yShift" format="dimension" />
+    </declare-styleable>
+</resources>
